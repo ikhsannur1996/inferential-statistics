@@ -10,9 +10,11 @@ Rentang ini disusun agar memiliki tingkat keyakinan tertentu, seperti **90%**, *
 
 #### ✔️ Contoh:
 Jika hasil survei menunjukkan bahwa rata-rata pengeluaran bulanan responden adalah **Rp3.000.000**, dan interval kepercayaan 95% adalah:
+
 \[
 CI = Rp2.800.000 \text{ s/d } Rp3.200.000
 \]
+
 Artinya, **kita 95% yakin** bahwa rata-rata pengeluaran bulanan seluruh populasi (bukan hanya sampel) berada dalam rentang tersebut.
 
 ---
@@ -25,6 +27,7 @@ Biasanya ditulis dalam bentuk plus-minus (±) dan merupakan salah satu komponen 
 
 #### ✔️ Contoh:
 Jika survei mengatakan bahwa **60% orang memilih opsi A**, dan **MoE = ±4%**, maka hasil sebenarnya di populasi mungkin berada antara:
+
 \[
 60\% - 4\% = 56\%, \quad \text{dan} \quad 60\% + 4\% = 64\%
 \]
@@ -34,6 +37,7 @@ Jika survei mengatakan bahwa **60% orang memilih opsi A**, dan **MoE = ±4%**, m
 ### 🔄 3. **Hubungan Confidence Interval dan Margin of Error**
 
 Secara matematis, interval kepercayaan dibentuk dari:
+
 \[
 \text{Confidence Interval} = \text{Estimasi Sampel} \pm \text{Margin of Error}
 \]
