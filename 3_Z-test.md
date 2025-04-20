@@ -20,15 +20,8 @@ Z-test umumnya digunakan ketika:
 
 Untuk satu sampel, rumus Z-test adalah:
 
-\[
-Z = \frac{\bar{X} - \mu}{\sigma / \sqrt{n}}
-\]
+![image](https://github.com/user-attachments/assets/566bd256-9fe9-4981-ad96-1e25941853ad)
 
-Keterangan:  
-- \(\bar{X}\) = rata-rata sampel  
-- \(\mu\) = rata-rata populasi  
-- \(\sigma\) = simpangan baku populasi  
-- \(n\) = ukuran sampel
 
 ---
 
@@ -72,9 +65,8 @@ Contoh:
 
 **Langkah-langkah**:
 1. Rumus Z:  
-   \[
-   Z = \frac{14.5 - 15}{1.8 / \sqrt{36}} = \frac{-0.5}{0.3} = -1.67
-   \]
+![image](https://github.com/user-attachments/assets/d2b899c6-1ef7-4901-b830-94a629c4ca6a)
+
 2. Z-kritis untuk uji dua sisi (α = 0.05) = ±1.96  
 3. Karena -1.67 berada dalam wilayah netral → **Gagal menolak H₀**
 
